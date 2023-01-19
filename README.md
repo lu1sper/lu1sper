@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lu1sper
 - 👀 I’m interested in Data Science
--
 - 🌱 I’m currently learning Python
 - 📫 How to reach me dselimozcelik@gmail.com
 
