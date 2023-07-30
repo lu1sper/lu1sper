@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lu1sper
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C++
 - 📫 How to reach me dselimozcelik@gmail.com
 
 <!---
