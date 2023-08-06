@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lu1sper
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++
 - 📫 How to reach me dselimozcelik@gmail.com
 
 <!---
